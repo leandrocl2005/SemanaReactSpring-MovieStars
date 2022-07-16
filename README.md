@@ -444,7 +444,6 @@ Passo: Tela de Listagem de filmes
 - Criar o projeto: `django-admin startproject core .`
 - Instalar Django Rest Framework: `pip install djangorestframework`
 - Adicionar 'rest_framework' em `INSTALLED_APPS`
-- Criar projeto: `django-admin startproject core .`
 - Criar app: `python manage.py startapp moviescore`
 - Adicionar 'moviescore' em `INSTALLED_APPS`
 - Criar os modelos Movie e Score.

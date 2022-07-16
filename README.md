@@ -441,6 +441,7 @@ Passo: Tela de Listagem de filmes
     - No windows: `. env/Scripts/activate`
     - No linux: `source env/bin/activate`
 - Instalar Django: `pip install django`
+- Criar o projeto: `django-admin startproject core .`
 - Instalar Django Rest Framework: `pip install djangorestframework`
 - Adicionar 'rest_framework' em `INSTALLED_APPS`
 - Criar projeto: `django-admin startproject core .`
